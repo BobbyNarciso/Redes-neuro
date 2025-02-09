@@ -1,0 +1,1 @@
+Este fue el proyecto final que fungio como examen final para la clase de Teoria del Cerebro y Neuroinformatica. Este proyecto relaciona el Proyecto del Conectoma Humano con redes neuronales para aproximar las reacciones del cerebro conforme a diferentes estimulos.
